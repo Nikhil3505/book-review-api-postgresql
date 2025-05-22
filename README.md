@@ -31,7 +31,7 @@ This is a RESTful API for a Book Review System built with Node.js, Express, Sequ
 ### 📂 Clone the repo
 
 ```bash
-git clone https://github.com/your-username/book-review-api.git
+git clone https://github.com/Nikhil3505/book-review-api-postgresql.git
 cd book-review-api
 ```
 
